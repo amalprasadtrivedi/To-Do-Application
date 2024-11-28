@@ -201,7 +201,7 @@ Email: [Email ID](amaltrivedi3904stella@gmail.com)<br>
 GitHub: [GitHub Profile](https://github.com/amalprasadtrivedi/)<br>
 Happy Task Managing!<br><br>
 
-[You can copy and paste this directly into your `README.md`. Let me know if you need further customizations!]
+You can copy and paste this directly into your `README.md`. Let me know if you need further customizations!
 
 
 
