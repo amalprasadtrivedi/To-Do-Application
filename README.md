@@ -25,6 +25,7 @@
 14. [Contact Information](#contact-information)
 
 ---
+![image](https://github.com/user-attachments/assets/d3393227-11dd-467c-8a87-4806a0371527)
 
 ## <a name="introduction"></a>Introduction
 
@@ -86,8 +87,6 @@ Ensure Java JDK 8 or a later version is installed. If not, download and install 
 Compile the Code:
 
 Navigate to the project directory and compile the code using the following command:
-bash
-Copy code
 javac ToDoNotes.java
 Run the Application:
 
@@ -98,11 +97,10 @@ java ToDoNotes
 Add the Background Image:
 
 Place your preferred background image in the specified path:
-vbnet
-Copy code
-C:\Users\HP\OneDrive\Desktop\To-Do_Image
+<br><br>
+--.assets\To-Do_Image
 Ensure the file name matches the code.
-<a name="how-to-use"></a>How to Use
+<a name="how-to-use"></a>How to Use<br><br>
 Adding Tasks
 Enter a title and description for the task.
 Select a category from the dropdown list: Work, Personal, Study, Other.
@@ -197,11 +195,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 <a name="contact-information"></a>Contact Information
 If you have any questions or suggestions, feel free to reach out to:
-
-Name: Amal Prasad Trivedi
-Email: [Email ID](amaltrivedi3904stella@gmail.com)
-GitHub: [GitHub Profile](https://github.com/amalprasadtrivedi/)
-Happy Task Managing!
+<br><br>
+Name: Amal Prasad Trivedi<br>
+Email: [Email ID](amaltrivedi3904stella@gmail.com)<br>
+GitHub: [GitHub Profile](https://github.com/amalprasadtrivedi/)<br>
+Happy Task Managing!<br><br>
 
 [You can copy and paste this directly into your `README.md`. Let me know if you need further customizations!]
 
